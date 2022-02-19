@@ -15,10 +15,10 @@ import numpy
 # USER INPUT AREA
 
 ## Data
-KnownPositions = '###ER'
-NegativeLetters = 'AOSIT'
-YellowLetters = 'L'
-YellowLettersPositions = [[1,0,0,0,0]]
+KnownPositions = '#O#E#'
+NegativeLetters = 'SHAPATRBDI'
+YellowLetters = ''
+YellowLettersPositions = []
 
 ## Parameters
 GeneralOrByPosition = 0 # use general letter frequencies(0) or position specific letter frequencies(1)
